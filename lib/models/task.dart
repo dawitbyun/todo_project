@@ -1,4 +1,4 @@
-class Task {
+class Task {    //Task object이다.
 
   final String name;
   bool isDone = false;
